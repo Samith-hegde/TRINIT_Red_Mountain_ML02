@@ -12,3 +12,5 @@ The main task is to use GOSAT and OCO-2 data and build/compare Machine Learning 
 3) We split the data into training and validation sets, and preprocessed the numerical data by sending it through a Standard Scaler pipeline. 
 4) We trained and tested the data on Random Forest Regressor model, and evaluated it using rmse (Root Mean Squared error) metric, and obtained an rmse of  0.14386 for the training data, and an rmse of 0.47341 for the testing data.
 5) Additionally, we wrote the code for extracting emissions data of multiple days from the large amounts of raw data available in NASA's website.
+
+              using Python and Google Colab
